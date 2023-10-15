@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor MacMurray</h1>
-<h3 align="center">An aspiring full stack developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🔭 I'm working hard at developing the knowledge and skill sets required to excel at my new career. I'm excited to collaborate and learn with others, take my skills to the next level and become a valuable asset to a team.
 
